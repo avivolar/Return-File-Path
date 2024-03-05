@@ -1,0 +1,4 @@
+#Folders to ignore
+/obj
+/bin
+/.vs
